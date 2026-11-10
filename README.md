@@ -55,6 +55,15 @@ Traditional APM tools treat these as three isolated alerts and page three differ
 | **7** | **Interactive Dashboard** | Dark-mode developer cockpit (Resend & Bolt.new aesthetic) featuring interactive service topology graphs, chronological timeline views, log upload workbench, live streaming telemetry, and downloadable post-mortems. |
 
 ---
+## Visuals 
+
+![Console](image.png)
+![Console](image-1.png)
+![Console](image-2.png)
+![Console](image-3.png)
+![Console](image-4.png)
+![Console](image-5.png)
+![Console](image-6.png)
 
 ## 🏆 Expected Outcome & Capabilities
 
