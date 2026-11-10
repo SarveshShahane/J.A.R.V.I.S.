@@ -57,13 +57,13 @@ Traditional APM tools treat these as three isolated alerts and page three differ
 ---
 ## Visuals 
 
-![Console](image.png)
-![Console](image-1.png)
-![Console](image-2.png)
-![Console](image-3.png)
-![Console](image-4.png)
-![Console](image-5.png)
-![Console](image-6.png)
+![Console](images/image.png)
+![Console](images/image-1.png)
+![Console](images/image-2.png)
+![Console](images/image-3.png)
+![Console](images/image-4.png)
+![Console](images/image-5.png)
+![Console](images/image-6.png)
 
 ## 🏆 Expected Outcome & Capabilities
 
